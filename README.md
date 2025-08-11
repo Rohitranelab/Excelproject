@@ -45,9 +45,7 @@ It provides key insights into sales trends, product performance, and regional pe
 4. Export charts or tables for reporting purposes.
 
 ## 📷 Dashboard Preview
-
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/1cc23316-e464-4fa6-b75c-04e951350d8b" />
-
+<img width="1094" height="604" alt="Screenshot 2025-08-11 180154" src="https://github.com/user-attachments/assets/e7cdc8b6-4ec9-4cf6-b722-061ded6c0688" />
 
 ## 👤 Author
 **Rohit Rane**  
